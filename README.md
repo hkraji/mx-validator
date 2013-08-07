@@ -4,7 +4,7 @@ Gem uses MX records to validate email addresses, no emails will be sent.
 
 ## Install
 
-  gem install mx-validator
+    gem install mx-validator
 
 ## Usage
 
