@@ -7,4 +7,4 @@ Gem uses MX records to validate email addresses, no emails will be sent.
     require 'mx-validator'
     MX::Validator.validate('foo@gmail.com')
 
-## Have fun
+Have fun!
